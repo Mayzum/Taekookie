@@ -1,7 +1,5 @@
-
 import random
-
-def cantidadNumCeroMenorCeroMayorCero():
+def cantidadNumCeroMenorCeroMayorCeroNMVA():
     #Definir Variables
     cero, menorCero, mayorCero=0,0,0
     #Datos de entrada
@@ -20,5 +18,4 @@ def cantidadNumCeroMenorCeroMayorCero():
     print(f"La cantidad de numeros ceros es: {cero}")
     print(f"La cantidad de numeros mayores de cero es: {mayorCero}")
     print(f"La cantidad de numeros menores a cero: {menorCero}")
-#calcularInversionFinAnho()
-cantidadNumCeroMenorCeroMayorCero()
+cantidadNumCeroMenorCeroMayorCeroNMVA()
